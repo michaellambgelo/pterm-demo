@@ -1,4 +1,4 @@
-module github.com/pterm/cli-template
+module github.com/michaellambgelo/pterm-demo
 
 go 1.16
 
